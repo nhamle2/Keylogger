@@ -14,6 +14,7 @@ This project is a Python Keylogger. The program was made from the perspective of
 <h2>Environments Used </h2>
 
 - <b>Kali Linux</b>
+- <b>VS Code</b>
 
 <h2>Project walk-through:</h2>
 <p align="center">
